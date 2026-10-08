@@ -1,6 +1,6 @@
 # Giovanni Flores
 
-### Tecnologia • Desenvolvimento • Análise e solução de problemas
+### Tecnologia — Desenvolvimento — Análise e solução de problemas
 
 Sou Giovanni Flores e utilizo tecnologia para transformar problemas e ideias em soluções práticas.
 
