@@ -1,103 +1,39 @@
-# 💻 Giovanni Flores
+# Giovanni Flores
 
-**`Desenvolvedor Jr. | FullStack`**
+### Tecnologia • Desenvolvimento • Análise e solução de problemas
 
-Olá, sou **Giovanni Flores**, tenho 22 anos e sou natural do Rio Grande do Sul. Me formei no ensino Técnico na QI Faculdade & Escola Técnica em 2021. Atualmente, estou cursando Ciência da Computação na Uninter. Cursei alguns semestres na faculdade Unisinos, onde obtive o certificado na Oficina de Inclusão Digital. Durante essa experiência, atuei como tutor, promovendo o incentivo ao uso da Tecnologia da Informação entre crianças com difícil acesso a esses recursos. Acredito no poder da tecnologia como ferramenta de transformação social e busco constantemente ampliar meus conhecimentos para contribuir com projetos que unam inovação, educação e acessibilidade digital.
+Sou Giovanni Flores e utilizo tecnologia para transformar problemas e ideias em soluções práticas.
 
----
+Tenho interesse especialmente em compreender como processos, sistemas e experiências podem ser melhorados. Costumo partir da identificação de um problema, estruturar possíveis caminhos e então desenvolver ou prototipar uma solução.
 
-### Linguagens e Tecnologias
+Atualmente desenvolvo projetos próprios voltados a sistemas web, ferramentas internas, automação de processos e experiências digitais, utilizando esses projetos também como forma de aprofundar meus conhecimentos técnicos.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+## 🛠 Tecnologias
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
+**Front-end**
+HTML - CSS - JavaScript&#x20;
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
+**Back-end e dados**
+Node.js - PostgreSQL
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+**Outras tecnologias**
+Flutter - Dart - C# - SQL - LocalStorage&#x20;
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
+## 💡 Projetos
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
-/>
+Alguns dos projetos desenvolvidos envolvem gerenciamento de chamados, organização de escalas, acompanhamento de metas e hábitos, monitoramento de incidentes e soluções comerciais.
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
+Os projetos visuais com suas descrições, incluindo problema identificado, processo de desenvolvimento, decisões de UX e solução proposta, estão disponíveis no meu portfólio.
 
+**[Acessar meu portfólio](https://giovanniflores.com.br/)**
 
-<br/>
-<br/>
+## 🎓 Formação
 
-### 📊 Estatísticas
+Formação técnica na área de Tecnologia da Informação e estudos acadêmicos em Ciência da Computação, complementados atualmente por projetos práticos e aprendizado independente em tecnologia.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="142" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=giovanni-flores&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+Durante minha formação, também participei de iniciativas relacionadas à inclusão digital e ao incentivo ao uso da tecnologia para crianças e adolescente.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="140"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-flores&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
-</p>
+## 📫 Contato
+
+**LinkedIn:** [Giovanni Moreira Flores](https://www.linkedin.com/in/giovanni-moreira-flores-3211b017b/)
+**Portfólio:** [Conheça meus projetos](https://giovanniflores.com.br/#projetos)
