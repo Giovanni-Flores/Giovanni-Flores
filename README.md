@@ -37,7 +37,7 @@ Alguns dos projetos desenvolvidos envolvem gerenciamento de chamados, organizaç
 | **Days Gone**         | Organização de metas, hábitos e acompanhamento do progresso.              | [Ver estudo de caso](https://giovanniflores.com.br/projects/app-metas.html)         |
 | **Incidentes-NOC**    | Proposta voltada ao registro e acompanhamento de incidentes operacionais. | [Ver estudo de caso](https://giovanniflores.com.br/projects/alerta-incidentes.html) |
 | **Eskala**            | Organização de escalas, colaboradores e eventos.                          | [Ver estudo de caso](https://giovanniflores.com.br/projects/gerador-escala.html)    |
-| **Studio Trevo**      | Divulgação de fotos e eventos para contratação privada.                   | [Conheça meu portfólio](https://giovanniflores.com.br/#projetos)                    |
+| **Studio Trevo**      | Divulgação de fotos e eventos para contratação privada.                   | [Ver estudo de caso](https://giovanniflores.com.br/projects/divulgacao-fotos.html)  |
 
 O [portfólio pessoal](https://giovanniflores.com.br/) está publicado para apresentar meu trabalho.
 
