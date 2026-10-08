@@ -23,9 +23,23 @@ Flutter - Dart - C# - SQL - LocalStorage&#x20;
 
 Alguns dos projetos desenvolvidos envolvem gerenciamento de chamados, organização de escalas, acompanhamento de metas e hábitos, monitoramento de incidentes e soluções comerciais.
 
-Os projetos visuais com suas descrições, incluindo problema identificado, processo de desenvolvimento, decisões de UX e solução proposta, estão disponíveis no meu portfólio.
+### Projetos com código público
 
-**[Acessar meu portfólio](https://giovanniflores.com.br/)**
+| Projeto                                                                                  | Apresentação                                                                                        | Estudo de caso                                                                     |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [**TaskBoard**](https://github.com/Giovanni-Flores/taskboard)                            | Protótipo de gestão de chamados em HTML, CSS e JavaScript, com filtros, comentários e dados locais. | [Ver no portfólio](https://giovanniflores.com.br/projects/sistema-chamados.html)   |
+| [**Protótipo de Transportes**](https://github.com/Giovanni-Flores/prototipo-transportes) | Site institucional responsivo para apresentar transportes, borracharia e serviços.                  | [Ver no portfólio](https://giovanniflores.com.br/projects/empresa-transporte.html) |
+
+### Projetos com código privado
+
+| Projeto               | Apresentação                                                              | Portfólio                                                                           |
+| --------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Days Gone**         | Organização de metas, hábitos e acompanhamento do progresso.              | [Ver estudo de caso](https://giovanniflores.com.br/projects/app-metas.html)         |
+| **Incidentes-NOC**    | Proposta voltada ao registro e acompanhamento de incidentes operacionais. | [Ver estudo de caso](https://giovanniflores.com.br/projects/alerta-incidentes.html) |
+| **Eskala**            | Organização de escalas, colaboradores e eventos.                          | [Ver estudo de caso](https://giovanniflores.com.br/projects/gerador-escala.html)    |
+| **Studio Trevo**      | Divulgação de fotos e eventos para contratação privada.                   | [Conheça meu portfólio](https://giovanniflores.com.br/#projetos)                    |
+
+O [portfólio pessoal](https://giovanniflores.com.br/) está publicado para apresentar meu trabalho.
 
 ## 🎓 Formação
 
