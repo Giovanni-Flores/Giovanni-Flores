@@ -38,6 +38,7 @@ Alguns dos projetos desenvolvidos envolvem gerenciamento de chamados, organizaç
 | **Incidentes-NOC**    | Proposta voltada ao registro e acompanhamento de incidentes operacionais. | [Ver estudo de caso](https://giovanniflores.com.br/projects/alerta-incidentes.html) |
 | **Eskala**            | Organização de escalas, colaboradores e eventos.                          | [Ver estudo de caso](https://giovanniflores.com.br/projects/gerador-escala.html)    |
 | **Studio Trevo**      | Divulgação de fotos e eventos para contratação privada.                   | [Ver estudo de caso](https://giovanniflores.com.br/projects/divulgacao-fotos.html)  |
+| **Palhas da Flora**   | Vendas de doces artesanais com reservas, estoque por sabor e pagamento.   | [Ver estudo de caso](https://giovanniflores.com.br/projects/venda-doces.html)       |
 
 O [portfólio pessoal](https://giovanniflores.com.br/) está publicado para apresentar meu trabalho.
 
